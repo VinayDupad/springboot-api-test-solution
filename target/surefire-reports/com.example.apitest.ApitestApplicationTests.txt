@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.apitest.ApitestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.149 s -- in com.example.apitest.ApitestApplicationTests

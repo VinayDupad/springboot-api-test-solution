@@ -1,0 +1,4 @@
+com/example/apitest/ApitestApplication.class
+com/example/apitest/DTO/GenerateWebhookResponse.class
+com/example/apitest/service/WebhookService.class
+com/example/apitest/DTO/GenerateWebhookRequest.class
